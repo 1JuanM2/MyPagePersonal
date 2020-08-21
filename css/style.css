@@ -1,0 +1,14 @@
+th{
+    background-color: purple;
+    color:white;
+}
+
+caption{
+    background-color:lightgray;
+    color: red;
+    margin:10px;
+}
+
+td{
+    background-color:lightseagreen;
+}

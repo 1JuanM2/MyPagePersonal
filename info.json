@@ -1,0 +1,22 @@
+{
+    "Registros":[
+        [
+            "1038","YO","Apellido","18","F","3124","Por ahi","Azul","Mango","yo@gmail.com"
+        ],
+        [
+            "1039","YO2","Apellido2","19","M","3224","aja alli","Rojo","Mango","yo2@gmail.com"
+        ],
+        [
+            "1040","YO3","Apellido3","20","F","3324","Poahi","Verde","Mango","yo3@gmail.com"
+        ],
+        [
+            "1041","YO4","Apellido4","21","M","1224","Por ahi","Lila","Mango","yo4@gmail.com"
+        ],
+        [
+            "1042","YO5","Apellido5","22","F","6324","PorAhi","Negro","Mango","yo5@gmail.com"
+        ],
+        [
+            "1043","YO6","Apellido6","23","M","3224","Por-ahi","Morado","Mango","yo6@gmail.com"
+        ]
+    ]
+}
